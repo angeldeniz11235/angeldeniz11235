@@ -1,4 +1,4 @@
-Hi, I’m @angeldeniz11235, I am an aspiring software developer currently interested in web development.
+Hi, I’m @angeldeniz11235, I am a software developer based in San Diego California. 
 
 <!---
 angeldeniz11235/angeldeniz11235 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
